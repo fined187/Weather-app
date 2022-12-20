@@ -10,3 +10,5 @@ This the list i used libraries for this project
   - expo
   - Bootstrap
 
+## Getting Started
+
