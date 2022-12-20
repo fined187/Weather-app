@@ -9,6 +9,6 @@ This the list i used libraries for this project
   - React Native
   - expo
   - Bootstrap
-
+---
 ## Getting Started
-
+``` npm install -expo ```
