@@ -5,7 +5,7 @@ type Props = {
     location: string
   }
 }
-
+//  http://api.weatherapi.com/v1/current.json?key=8def50ea49fc4a4681380225231111&q=Seoul&aqi=no
 export default function Detail({params}: Props) {
   const name = params.location === 'seoul' ? '서울' : '';
 
